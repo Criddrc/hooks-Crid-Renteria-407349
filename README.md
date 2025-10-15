@@ -8,4 +8,4 @@ Cada sección cuenta con su propio repositorio y video explicativo.
 ## 📺 Vista previa de los videos
 
 ### 🔹 Hooks
-[Ver Video Hooks](https://drive.google.com/file/d/1fbVifyess4kJnXueJHg4typLSrIdMiMg/view?usp=drive_link)
+[Ver Video Hooks](https://drive.google.com/file/d/1YJ7ROWJM_IoofCdTRwA3cqiz3CgI8Pgg/view?usp=drive_link)
